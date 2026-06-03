@@ -1,6 +1,6 @@
 # インベウィーダーX プライバシーポリシー
 
-最終更新日: 2026-05-26
+最終更新日: 2026-05-31
 
 「インベウィーダーX」 (以下「本アプリ」) は、 ユーザーのプライバシーを尊重し、
 個人情報を適切に取り扱います。 本ポリシーは、 本アプリが収集する情報、 その
@@ -17,9 +17,13 @@
 - **ゲームスコア**: 10 ステージ完走時の累積 TOTAL スコア。 Apple Game Center
   リーダーボードに送信され、 週次 / 月次 / 全期間ランキングに集計されます
 
-### 1.2 Google Play Games Services 経由のデータ (Android 版、 将来追加予定)
+### 1.2 Google Play Games Services 経由のデータ (Android 版)
 
-iOS 版と同等の情報を、 Google Play Games Services 経由で取り扱います。
+- **Play Games プレイヤー ID** (Google が発行する匿名 ID): iOS 版の Game
+  Center プレイヤー ID と同等の用途で、 リーダーボードのスコア所有者を
+  示すためにのみ使用
+- **ゲームスコア**: 10 ステージ完走時の累積 TOTAL スコア。 Google Play
+  Games Services リーダーボードに送信され、 全期間 / 日次 / 週次ランキングに集計
 
 ### 1.3 Google AdMob (報酬型動画広告) 経由のデータ
 
